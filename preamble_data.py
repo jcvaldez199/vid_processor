@@ -1,15 +1,16 @@
 import pymongo
 import numpy as np
 import cv2
+import sys
 
-myclient = pymongo.MongoClient("mongodb://localhost:27017")
+myclient = pymongo.MongoClient("mongodb://localhost:16000")
 mydb = myclient["mydb"]
-collection = mydb["imagetest"]
-video_name = "top_500_cheese.mp4"
+collection = mydb["imagetest_normal"]
+video_name = "minecraft.mp4"
 cap = cv2.VideoCapture(video_name)
-max_frames = 10
+max_frames = 1000
 frame_multiplier = 1
-starting_frame = 20100
+starting_frame = 5
 
 def drop_coll():
     collection.drop()
@@ -25,6 +26,11 @@ def insert_image(frame_count):
 
         x = collection.insert_many(insertlist)
         cv2.destroyAllWindows()
+
+def gen_image(frame_no):
+    image = cv2.imread('minecraft_frame_10.jpg')
+    frame = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    return frame
 
 def gen_frame(frame_no):
     cap.set(cv2.CAP_PROP_POS_FRAMES, frame_no)

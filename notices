@@ -1,0 +1,10 @@
+tried different mclass policies -> didnt work
+tried same version -> didnt work
+tried dumber queries -> didnt work
+
+tried turning off journaling -> significantly improved performance
+
+
+throttling is already set to default max, they say wait for about 5 mins before doing anything i guess
+check the hse mongod settings
+for some reason, hseresfile only has 9 entries
