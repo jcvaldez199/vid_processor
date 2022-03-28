@@ -1,0 +1,22 @@
+DO
+DO
+DO
+DO
+DO
+DO
+DO
+DO
+psql:./test.sql:24: NOTICE:  7.664
+DO
+psql:./test.sql:24: NOTICE:  11.304
+DO
+psql:./test.sql:24: NOTICE:  59.457
+DO
+psql:./test.sql:24: NOTICE:  109.392
+DO
+psql:./test.sql:24: NOTICE:  24.142
+DO
+psql:./test.sql:24: NOTICE:  25.607
+DO
+psql:./test.sql:24: NOTICE:  296.496
+DO
