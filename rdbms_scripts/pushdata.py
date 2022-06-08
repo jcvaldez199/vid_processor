@@ -7,9 +7,10 @@ import psycopg2
 
 
 if __name__ == '__main__':
-    frame_max = 11
+    frame_max = 101
+    frame_max = 2
 
-    with open("datafile.json") as f:
+    with open("datafile_2d.json") as f:
         data  = json.load(f)
 
         conn = psycopg2.connect(dbname="gpstest")

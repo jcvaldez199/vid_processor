@@ -1,0 +1,2000 @@
+psql:./test.sql:24: NOTICE:  236.494
+DO
+psql:./test.sql:24: NOTICE:  252.79
+DO
+psql:./test.sql:24: NOTICE:  84.386
+DO
+psql:./test.sql:24: NOTICE:  523.746
+DO
+psql:./test.sql:24: NOTICE:  49.657
+DO
+psql:./test.sql:24: NOTICE:  37.063
+DO
+psql:./test.sql:24: NOTICE:  46.117
+DO
+psql:./test.sql:24: NOTICE:  43.917
+DO
+psql:./test.sql:24: NOTICE:  26.033
+DO
+psql:./test.sql:24: NOTICE:  451.512
+DO
+psql:./test.sql:24: NOTICE:  32.091
+DO
+psql:./test.sql:24: NOTICE:  24.931
+DO
+psql:./test.sql:24: NOTICE:  16.231
+DO
+psql:./test.sql:24: NOTICE:  18.585
+DO
+psql:./test.sql:24: NOTICE:  32.89
+DO
+psql:./test.sql:24: NOTICE:  76.82
+DO
+psql:./test.sql:24: NOTICE:  190.67
+DO
+psql:./test.sql:24: NOTICE:  74.715
+DO
+psql:./test.sql:24: NOTICE:  17.212
+DO
+psql:./test.sql:24: NOTICE:  24.725
+DO
+psql:./test.sql:24: NOTICE:  157.082
+DO
+psql:./test.sql:24: NOTICE:  30.342
+DO
+psql:./test.sql:24: NOTICE:  128.619
+DO
+psql:./test.sql:24: NOTICE:  37.981
+DO
+psql:./test.sql:24: NOTICE:  22.514
+DO
+psql:./test.sql:24: NOTICE:  48.045
+DO
+psql:./test.sql:24: NOTICE:  69.146
+DO
+psql:./test.sql:24: NOTICE:  33.764
+DO
+psql:./test.sql:24: NOTICE:  27.063
+DO
+psql:./test.sql:24: NOTICE:  17.165
+DO
+psql:./test.sql:24: NOTICE:  16.747
+DO
+psql:./test.sql:24: NOTICE:  80.744
+DO
+psql:./test.sql:24: NOTICE:  55.143
+DO
+psql:./test.sql:24: NOTICE:  37.436
+DO
+psql:./test.sql:24: NOTICE:  74.192
+DO
+psql:./test.sql:24: NOTICE:  61.95
+DO
+psql:./test.sql:24: NOTICE:  83.229
+DO
+psql:./test.sql:24: NOTICE:  352.387
+DO
+psql:./test.sql:24: NOTICE:  50.408
+DO
+psql:./test.sql:24: NOTICE:  17.286
+DO
+psql:./test.sql:24: NOTICE:  18.306
+DO
+psql:./test.sql:24: NOTICE:  41.145
+DO
+psql:./test.sql:24: NOTICE:  255.283
+DO
+psql:./test.sql:24: NOTICE:  142.608
+DO
+psql:./test.sql:24: NOTICE:  30.632
+DO
+psql:./test.sql:24: NOTICE:  160.545
+DO
+psql:./test.sql:24: NOTICE:  117.055
+DO
+psql:./test.sql:24: NOTICE:  21.173
+DO
+psql:./test.sql:24: NOTICE:  928.225
+DO
+psql:./test.sql:24: NOTICE:  36.992
+DO
+psql:./test.sql:24: NOTICE:  25.179
+DO
+psql:./test.sql:24: NOTICE:  411.376
+DO
+psql:./test.sql:24: NOTICE:  454.774
+DO
+psql:./test.sql:24: NOTICE:  27.768
+DO
+psql:./test.sql:24: NOTICE:  28.033
+DO
+psql:./test.sql:24: NOTICE:  18.224
+DO
+psql:./test.sql:24: NOTICE:  45.64
+DO
+psql:./test.sql:24: NOTICE:  218.398
+DO
+psql:./test.sql:24: NOTICE:  433.337
+DO
+psql:./test.sql:24: NOTICE:  52.882
+DO
+psql:./test.sql:24: NOTICE:  115.378
+DO
+psql:./test.sql:24: NOTICE:  392.465
+DO
+psql:./test.sql:24: NOTICE:  161.907
+DO
+psql:./test.sql:24: NOTICE:  27.639
+DO
+psql:./test.sql:24: NOTICE:  46.819
+DO
+psql:./test.sql:24: NOTICE:  540.616
+DO
+psql:./test.sql:24: NOTICE:  184.053
+DO
+psql:./test.sql:24: NOTICE:  204.906
+DO
+psql:./test.sql:24: NOTICE:  19.058
+DO
+psql:./test.sql:24: NOTICE:  44.969
+DO
+psql:./test.sql:24: NOTICE:  24.298
+DO
+psql:./test.sql:24: NOTICE:  24.978
+DO
+psql:./test.sql:24: NOTICE:  24.523
+DO
+psql:./test.sql:24: NOTICE:  17.554
+DO
+psql:./test.sql:24: NOTICE:  381.41
+DO
+psql:./test.sql:24: NOTICE:  56.84
+DO
+psql:./test.sql:24: NOTICE:  60.808
+DO
+psql:./test.sql:24: NOTICE:  127.585
+DO
+psql:./test.sql:24: NOTICE:  113.887
+DO
+psql:./test.sql:24: NOTICE:  644.816
+DO
+psql:./test.sql:24: NOTICE:  58.791
+DO
+psql:./test.sql:24: NOTICE:  369.097
+DO
+psql:./test.sql:24: NOTICE:  125.716
+DO
+psql:./test.sql:24: NOTICE:  95.173
+DO
+psql:./test.sql:24: NOTICE:  74.095
+DO
+psql:./test.sql:24: NOTICE:  185.749
+DO
+psql:./test.sql:24: NOTICE:  369.567
+DO
+psql:./test.sql:24: NOTICE:  182.596
+DO
+psql:./test.sql:24: NOTICE:  109.61
+DO
+psql:./test.sql:24: NOTICE:  633.373
+DO
+psql:./test.sql:24: NOTICE:  265.29
+DO
+psql:./test.sql:24: NOTICE:  374.124
+DO
+psql:./test.sql:24: NOTICE:  590.049
+DO
+psql:./test.sql:24: NOTICE:  369.728
+DO
+psql:./test.sql:24: NOTICE:  64.687
+DO
+psql:./test.sql:24: NOTICE:  384.802
+DO
+psql:./test.sql:24: NOTICE:  52.282
+DO
+psql:./test.sql:24: NOTICE:  160.69
+DO
+psql:./test.sql:24: NOTICE:  15.939
+DO
+psql:./test.sql:24: NOTICE:  32.089
+DO
+psql:./test.sql:24: NOTICE:  78.277
+DO
+psql:./test.sql:24: NOTICE:  84.28
+DO
+psql:./test.sql:24: NOTICE:  234.877
+DO
+psql:./test.sql:24: NOTICE:  494.347
+DO
+psql:./test.sql:24: NOTICE:  26.003
+DO
+psql:./test.sql:24: NOTICE:  155.356
+DO
+psql:./test.sql:24: NOTICE:  46.661
+DO
+psql:./test.sql:24: NOTICE:  1011.752
+DO
+psql:./test.sql:24: NOTICE:  66.927
+DO
+psql:./test.sql:24: NOTICE:  48.716
+DO
+psql:./test.sql:24: NOTICE:  128.372
+DO
+psql:./test.sql:24: NOTICE:  38.502
+DO
+psql:./test.sql:24: NOTICE:  49.828
+DO
+psql:./test.sql:24: NOTICE:  113.777
+DO
+psql:./test.sql:24: NOTICE:  35.737
+DO
+psql:./test.sql:24: NOTICE:  149.423
+DO
+psql:./test.sql:24: NOTICE:  17.65
+DO
+psql:./test.sql:24: NOTICE:  40.936
+DO
+psql:./test.sql:24: NOTICE:  18.994
+DO
+psql:./test.sql:24: NOTICE:  19.053
+DO
+psql:./test.sql:24: NOTICE:  168.186
+DO
+psql:./test.sql:24: NOTICE:  42.364
+DO
+psql:./test.sql:24: NOTICE:  557.152
+DO
+psql:./test.sql:24: NOTICE:  450.798
+DO
+psql:./test.sql:24: NOTICE:  429.807
+DO
+psql:./test.sql:24: NOTICE:  363.921
+DO
+psql:./test.sql:24: NOTICE:  244.734
+DO
+psql:./test.sql:24: NOTICE:  18.409
+DO
+psql:./test.sql:24: NOTICE:  275.596
+DO
+psql:./test.sql:24: NOTICE:  25.404
+DO
+psql:./test.sql:24: NOTICE:  158.821
+DO
+psql:./test.sql:24: NOTICE:  27.427
+DO
+psql:./test.sql:24: NOTICE:  390.507
+DO
+psql:./test.sql:24: NOTICE:  264.366
+DO
+psql:./test.sql:24: NOTICE:  230.056
+DO
+psql:./test.sql:24: NOTICE:  188.719
+DO
+psql:./test.sql:24: NOTICE:  137.529
+DO
+psql:./test.sql:24: NOTICE:  25.297
+DO
+psql:./test.sql:24: NOTICE:  554.111
+DO
+psql:./test.sql:24: NOTICE:  47.945
+DO
+psql:./test.sql:24: NOTICE:  70.204
+DO
+psql:./test.sql:24: NOTICE:  62.623
+DO
+psql:./test.sql:24: NOTICE:  38.642
+DO
+psql:./test.sql:24: NOTICE:  42.849
+DO
+psql:./test.sql:24: NOTICE:  229.232
+DO
+psql:./test.sql:24: NOTICE:  369.247
+DO
+psql:./test.sql:24: NOTICE:  23.469
+DO
+psql:./test.sql:24: NOTICE:  506.435
+DO
+psql:./test.sql:24: NOTICE:  100.232
+DO
+psql:./test.sql:24: NOTICE:  723.891
+DO
+psql:./test.sql:24: NOTICE:  188.124
+DO
+psql:./test.sql:24: NOTICE:  20.761
+DO
+psql:./test.sql:24: NOTICE:  23.171
+DO
+psql:./test.sql:24: NOTICE:  178.749
+DO
+psql:./test.sql:24: NOTICE:  26.964
+DO
+psql:./test.sql:24: NOTICE:  139.424
+DO
+psql:./test.sql:24: NOTICE:  79.931
+DO
+psql:./test.sql:24: NOTICE:  241.215
+DO
+psql:./test.sql:24: NOTICE:  1391.999
+DO
+psql:./test.sql:24: NOTICE:  207.268
+DO
+psql:./test.sql:24: NOTICE:  971.991
+DO
+psql:./test.sql:24: NOTICE:  450.426
+DO
+psql:./test.sql:24: NOTICE:  38.382
+DO
+psql:./test.sql:24: NOTICE:  23.881
+DO
+psql:./test.sql:24: NOTICE:  156.455
+DO
+psql:./test.sql:24: NOTICE:  148.031
+DO
+psql:./test.sql:24: NOTICE:  28.283
+DO
+psql:./test.sql:24: NOTICE:  994.369
+DO
+psql:./test.sql:24: NOTICE:  19.192
+DO
+psql:./test.sql:24: NOTICE:  22.837
+DO
+psql:./test.sql:24: NOTICE:  29.075
+DO
+psql:./test.sql:24: NOTICE:  186.151
+DO
+psql:./test.sql:24: NOTICE:  868.526
+DO
+psql:./test.sql:24: NOTICE:  180.265
+DO
+psql:./test.sql:24: NOTICE:  31.266
+DO
+psql:./test.sql:24: NOTICE:  29.214
+DO
+psql:./test.sql:24: NOTICE:  322.398
+DO
+psql:./test.sql:24: NOTICE:  99.596
+DO
+psql:./test.sql:24: NOTICE:  76.215
+DO
+psql:./test.sql:24: NOTICE:  650.435
+DO
+psql:./test.sql:24: NOTICE:  182.22
+DO
+psql:./test.sql:24: NOTICE:  36.639
+DO
+psql:./test.sql:24: NOTICE:  164.75
+DO
+psql:./test.sql:24: NOTICE:  72.314
+DO
+psql:./test.sql:24: NOTICE:  18.031
+DO
+psql:./test.sql:24: NOTICE:  76.482
+DO
+psql:./test.sql:24: NOTICE:  39.818
+DO
+psql:./test.sql:24: NOTICE:  835.31
+DO
+psql:./test.sql:24: NOTICE:  211.399
+DO
+psql:./test.sql:24: NOTICE:  28.059
+DO
+psql:./test.sql:24: NOTICE:  512.164
+DO
+psql:./test.sql:24: NOTICE:  26.656
+DO
+psql:./test.sql:24: NOTICE:  34.018
+DO
+psql:./test.sql:24: NOTICE:  44.379
+DO
+psql:./test.sql:24: NOTICE:  31.597
+DO
+psql:./test.sql:24: NOTICE:  48.312
+DO
+psql:./test.sql:24: NOTICE:  17.972
+DO
+psql:./test.sql:24: NOTICE:  65.153
+DO
+psql:./test.sql:24: NOTICE:  363.396
+DO
+psql:./test.sql:24: NOTICE:  140.598
+DO
+psql:./test.sql:24: NOTICE:  109.736
+DO
+psql:./test.sql:24: NOTICE:  105.198
+DO
+psql:./test.sql:24: NOTICE:  134.129
+DO
+psql:./test.sql:24: NOTICE:  19.238
+DO
+psql:./test.sql:24: NOTICE:  23.7
+DO
+psql:./test.sql:24: NOTICE:  178.845
+DO
+psql:./test.sql:24: NOTICE:  23.786
+DO
+psql:./test.sql:24: NOTICE:  424.836
+DO
+psql:./test.sql:24: NOTICE:  47.987
+DO
+psql:./test.sql:24: NOTICE:  79.166
+DO
+psql:./test.sql:24: NOTICE:  440.825
+DO
+psql:./test.sql:24: NOTICE:  31.246
+DO
+psql:./test.sql:24: NOTICE:  30.971
+DO
+psql:./test.sql:24: NOTICE:  349.466
+DO
+psql:./test.sql:24: NOTICE:  57.381
+DO
+psql:./test.sql:24: NOTICE:  52.075
+DO
+psql:./test.sql:24: NOTICE:  65.514
+DO
+psql:./test.sql:24: NOTICE:  352.461
+DO
+psql:./test.sql:24: NOTICE:  245.505
+DO
+psql:./test.sql:24: NOTICE:  130.708
+DO
+psql:./test.sql:24: NOTICE:  37.395
+DO
+psql:./test.sql:24: NOTICE:  23.121
+DO
+psql:./test.sql:24: NOTICE:  76.1
+DO
+psql:./test.sql:24: NOTICE:  164.508
+DO
+psql:./test.sql:24: NOTICE:  17.478
+DO
+psql:./test.sql:24: NOTICE:  46.957
+DO
+psql:./test.sql:24: NOTICE:  38.104
+DO
+psql:./test.sql:24: NOTICE:  17.608
+DO
+psql:./test.sql:24: NOTICE:  667.811
+DO
+psql:./test.sql:24: NOTICE:  194.315
+DO
+psql:./test.sql:24: NOTICE:  473.382
+DO
+psql:./test.sql:24: NOTICE:  889.772
+DO
+psql:./test.sql:24: NOTICE:  20.969
+DO
+psql:./test.sql:24: NOTICE:  29.439
+DO
+psql:./test.sql:24: NOTICE:  35.826
+DO
+psql:./test.sql:24: NOTICE:  133.136
+DO
+psql:./test.sql:24: NOTICE:  60.941
+DO
+psql:./test.sql:24: NOTICE:  146.692
+DO
+psql:./test.sql:24: NOTICE:  138.664
+DO
+psql:./test.sql:24: NOTICE:  166.06
+DO
+psql:./test.sql:24: NOTICE:  364.076
+DO
+psql:./test.sql:24: NOTICE:  237.007
+DO
+psql:./test.sql:24: NOTICE:  907.822
+DO
+psql:./test.sql:24: NOTICE:  114.872
+DO
+psql:./test.sql:24: NOTICE:  475.81
+DO
+psql:./test.sql:24: NOTICE:  137.206
+DO
+psql:./test.sql:24: NOTICE:  236.74
+DO
+psql:./test.sql:24: NOTICE:  155.717
+DO
+psql:./test.sql:24: NOTICE:  28.198
+DO
+psql:./test.sql:24: NOTICE:  46.221
+DO
+psql:./test.sql:24: NOTICE:  126.357
+DO
+psql:./test.sql:24: NOTICE:  22.049
+DO
+psql:./test.sql:24: NOTICE:  247.717
+DO
+psql:./test.sql:24: NOTICE:  21.662
+DO
+psql:./test.sql:24: NOTICE:  235.813
+DO
+psql:./test.sql:24: NOTICE:  22.122
+DO
+psql:./test.sql:24: NOTICE:  40.699
+DO
+psql:./test.sql:24: NOTICE:  138.02
+DO
+psql:./test.sql:24: NOTICE:  130.419
+DO
+psql:./test.sql:24: NOTICE:  523.787
+DO
+psql:./test.sql:24: NOTICE:  169.417
+DO
+psql:./test.sql:24: NOTICE:  382.905
+DO
+psql:./test.sql:24: NOTICE:  79.322
+DO
+psql:./test.sql:24: NOTICE:  141.592
+DO
+psql:./test.sql:24: NOTICE:  55.205
+DO
+psql:./test.sql:24: NOTICE:  123.556
+DO
+psql:./test.sql:24: NOTICE:  48.04
+DO
+psql:./test.sql:24: NOTICE:  88.116
+DO
+psql:./test.sql:24: NOTICE:  421.047
+DO
+psql:./test.sql:24: NOTICE:  18.621
+DO
+psql:./test.sql:24: NOTICE:  615.328
+DO
+psql:./test.sql:24: NOTICE:  17.121
+DO
+psql:./test.sql:24: NOTICE:  100.688
+DO
+psql:./test.sql:24: NOTICE:  53.111
+DO
+psql:./test.sql:24: NOTICE:  83.64
+DO
+psql:./test.sql:24: NOTICE:  373.077
+DO
+psql:./test.sql:24: NOTICE:  18.239
+DO
+psql:./test.sql:24: NOTICE:  122.329
+DO
+psql:./test.sql:24: NOTICE:  414.225
+DO
+psql:./test.sql:24: NOTICE:  128.891
+DO
+psql:./test.sql:24: NOTICE:  137.797
+DO
+psql:./test.sql:24: NOTICE:  230.594
+DO
+psql:./test.sql:24: NOTICE:  147.676
+DO
+psql:./test.sql:24: NOTICE:  142.904
+DO
+psql:./test.sql:24: NOTICE:  40.902
+DO
+psql:./test.sql:24: NOTICE:  434.263
+DO
+psql:./test.sql:24: NOTICE:  29.316
+DO
+psql:./test.sql:24: NOTICE:  69.988
+DO
+psql:./test.sql:24: NOTICE:  66.455
+DO
+psql:./test.sql:24: NOTICE:  61.114
+DO
+psql:./test.sql:24: NOTICE:  60.929
+DO
+psql:./test.sql:24: NOTICE:  23.097
+DO
+psql:./test.sql:24: NOTICE:  18.326
+DO
+psql:./test.sql:24: NOTICE:  217.573
+DO
+psql:./test.sql:24: NOTICE:  606.27
+DO
+psql:./test.sql:24: NOTICE:  74.651
+DO
+psql:./test.sql:24: NOTICE:  1544.6
+DO
+psql:./test.sql:24: NOTICE:  262.505
+DO
+psql:./test.sql:24: NOTICE:  23.412
+DO
+psql:./test.sql:24: NOTICE:  23.017
+DO
+psql:./test.sql:24: NOTICE:  35.864
+DO
+psql:./test.sql:24: NOTICE:  42.207
+DO
+psql:./test.sql:24: NOTICE:  62.172
+DO
+psql:./test.sql:24: NOTICE:  46.504
+DO
+psql:./test.sql:24: NOTICE:  839.481
+DO
+psql:./test.sql:24: NOTICE:  166.248
+DO
+psql:./test.sql:24: NOTICE:  139.876
+DO
+psql:./test.sql:24: NOTICE:  61.983
+DO
+psql:./test.sql:24: NOTICE:  62.688
+DO
+psql:./test.sql:24: NOTICE:  20.106
+DO
+psql:./test.sql:24: NOTICE:  24.417
+DO
+psql:./test.sql:24: NOTICE:  214.106
+DO
+psql:./test.sql:24: NOTICE:  76.55
+DO
+psql:./test.sql:24: NOTICE:  80.482
+DO
+psql:./test.sql:24: NOTICE:  572.674
+DO
+psql:./test.sql:24: NOTICE:  877.664
+DO
+psql:./test.sql:24: NOTICE:  22.926
+DO
+psql:./test.sql:24: NOTICE:  88.118
+DO
+psql:./test.sql:24: NOTICE:  18.798
+DO
+psql:./test.sql:24: NOTICE:  17.752
+DO
+psql:./test.sql:24: NOTICE:  242.371
+DO
+psql:./test.sql:24: NOTICE:  148.563
+DO
+psql:./test.sql:24: NOTICE:  27.688
+DO
+psql:./test.sql:24: NOTICE:  64.666
+DO
+psql:./test.sql:24: NOTICE:  418.18
+DO
+psql:./test.sql:24: NOTICE:  19.231
+DO
+psql:./test.sql:24: NOTICE:  47.091
+DO
+psql:./test.sql:24: NOTICE:  164.432
+DO
+psql:./test.sql:24: NOTICE:  40.161
+DO
+psql:./test.sql:24: NOTICE:  21.898
+DO
+psql:./test.sql:24: NOTICE:  123.244
+DO
+psql:./test.sql:24: NOTICE:  32.052
+DO
+psql:./test.sql:24: NOTICE:  223.754
+DO
+psql:./test.sql:24: NOTICE:  17.133
+DO
+psql:./test.sql:24: NOTICE:  21.441
+DO
+psql:./test.sql:24: NOTICE:  481.439
+DO
+psql:./test.sql:24: NOTICE:  692.874
+DO
+psql:./test.sql:24: NOTICE:  202.411
+DO
+psql:./test.sql:24: NOTICE:  138.984
+DO
+psql:./test.sql:24: NOTICE:  22.001
+DO
+psql:./test.sql:24: NOTICE:  98.064
+DO
+psql:./test.sql:24: NOTICE:  24.253
+DO
+psql:./test.sql:24: NOTICE:  201.235
+DO
+psql:./test.sql:24: NOTICE:  34.963
+DO
+psql:./test.sql:24: NOTICE:  55.79
+DO
+psql:./test.sql:24: NOTICE:  60.268
+DO
+psql:./test.sql:24: NOTICE:  18.055
+DO
+psql:./test.sql:24: NOTICE:  100.882
+DO
+psql:./test.sql:24: NOTICE:  54.774
+DO
+psql:./test.sql:24: NOTICE:  56
+DO
+psql:./test.sql:24: NOTICE:  41.947
+DO
+psql:./test.sql:24: NOTICE:  117.551
+DO
+psql:./test.sql:24: NOTICE:  53.816
+DO
+psql:./test.sql:24: NOTICE:  590.9
+DO
+psql:./test.sql:24: NOTICE:  445.534
+DO
+psql:./test.sql:24: NOTICE:  884.839
+DO
+psql:./test.sql:24: NOTICE:  171.247
+DO
+psql:./test.sql:24: NOTICE:  15.911
+DO
+psql:./test.sql:24: NOTICE:  170.463
+DO
+psql:./test.sql:24: NOTICE:  179.113
+DO
+psql:./test.sql:24: NOTICE:  19.383
+DO
+psql:./test.sql:24: NOTICE:  53.771
+DO
+psql:./test.sql:24: NOTICE:  125.396
+DO
+psql:./test.sql:24: NOTICE:  70.421
+DO
+psql:./test.sql:24: NOTICE:  21.113
+DO
+psql:./test.sql:24: NOTICE:  37.316
+DO
+psql:./test.sql:24: NOTICE:  38.042
+DO
+psql:./test.sql:24: NOTICE:  67.119
+DO
+psql:./test.sql:24: NOTICE:  147.216
+DO
+psql:./test.sql:24: NOTICE:  239.598
+DO
+psql:./test.sql:24: NOTICE:  25.274
+DO
+psql:./test.sql:24: NOTICE:  66.2
+DO
+psql:./test.sql:24: NOTICE:  29.968
+DO
+psql:./test.sql:24: NOTICE:  100.517
+DO
+psql:./test.sql:24: NOTICE:  221.929
+DO
+psql:./test.sql:24: NOTICE:  180.04
+DO
+psql:./test.sql:24: NOTICE:  68.435
+DO
+psql:./test.sql:24: NOTICE:  183.825
+DO
+psql:./test.sql:24: NOTICE:  117.774
+DO
+psql:./test.sql:24: NOTICE:  16.667
+DO
+psql:./test.sql:24: NOTICE:  99.003
+DO
+psql:./test.sql:24: NOTICE:  43.458
+DO
+psql:./test.sql:24: NOTICE:  94.403
+DO
+psql:./test.sql:24: NOTICE:  107.289
+DO
+psql:./test.sql:24: NOTICE:  19.28
+DO
+psql:./test.sql:24: NOTICE:  461.118
+DO
+psql:./test.sql:24: NOTICE:  111.729
+DO
+psql:./test.sql:24: NOTICE:  160.672
+DO
+psql:./test.sql:24: NOTICE:  25.852
+DO
+psql:./test.sql:24: NOTICE:  165.638
+DO
+psql:./test.sql:24: NOTICE:  343.733
+DO
+psql:./test.sql:24: NOTICE:  710.502
+DO
+psql:./test.sql:24: NOTICE:  25.544
+DO
+psql:./test.sql:24: NOTICE:  368.466
+DO
+psql:./test.sql:24: NOTICE:  41.188
+DO
+psql:./test.sql:24: NOTICE:  435.761
+DO
+psql:./test.sql:24: NOTICE:  24.242
+DO
+psql:./test.sql:24: NOTICE:  384.105
+DO
+psql:./test.sql:24: NOTICE:  72.351
+DO
+psql:./test.sql:24: NOTICE:  117.621
+DO
+psql:./test.sql:24: NOTICE:  558.438
+DO
+psql:./test.sql:24: NOTICE:  96.112
+DO
+psql:./test.sql:24: NOTICE:  169.773
+DO
+psql:./test.sql:24: NOTICE:  258.726
+DO
+psql:./test.sql:24: NOTICE:  165.114
+DO
+psql:./test.sql:24: NOTICE:  492.626
+DO
+psql:./test.sql:24: NOTICE:  40.224
+DO
+psql:./test.sql:24: NOTICE:  434.291
+DO
+psql:./test.sql:24: NOTICE:  30.517
+DO
+psql:./test.sql:24: NOTICE:  19.69
+DO
+psql:./test.sql:24: NOTICE:  17.763
+DO
+psql:./test.sql:24: NOTICE:  691.316
+DO
+psql:./test.sql:24: NOTICE:  91.933
+DO
+psql:./test.sql:24: NOTICE:  497.938
+DO
+psql:./test.sql:24: NOTICE:  502.841
+DO
+psql:./test.sql:24: NOTICE:  650.504
+DO
+psql:./test.sql:24: NOTICE:  467.556
+DO
+psql:./test.sql:24: NOTICE:  253.332
+DO
+psql:./test.sql:24: NOTICE:  67.147
+DO
+psql:./test.sql:24: NOTICE:  60.17
+DO
+psql:./test.sql:24: NOTICE:  75.646
+DO
+psql:./test.sql:24: NOTICE:  28.889
+DO
+psql:./test.sql:24: NOTICE:  85.503
+DO
+psql:./test.sql:24: NOTICE:  374.731
+DO
+psql:./test.sql:24: NOTICE:  29.888
+DO
+psql:./test.sql:24: NOTICE:  172.401
+DO
+psql:./test.sql:24: NOTICE:  16.687
+DO
+psql:./test.sql:24: NOTICE:  80.675
+DO
+psql:./test.sql:24: NOTICE:  149.21
+DO
+psql:./test.sql:24: NOTICE:  18.424
+DO
+psql:./test.sql:24: NOTICE:  63.46
+DO
+psql:./test.sql:24: NOTICE:  105.566
+DO
+psql:./test.sql:24: NOTICE:  20.194
+DO
+psql:./test.sql:24: NOTICE:  756.21
+DO
+psql:./test.sql:24: NOTICE:  167.826
+DO
+psql:./test.sql:24: NOTICE:  180.99
+DO
+psql:./test.sql:24: NOTICE:  1147.157
+DO
+psql:./test.sql:24: NOTICE:  76.429
+DO
+psql:./test.sql:24: NOTICE:  40.829
+DO
+psql:./test.sql:24: NOTICE:  20.64
+DO
+psql:./test.sql:24: NOTICE:  657.607
+DO
+psql:./test.sql:24: NOTICE:  31.462
+DO
+psql:./test.sql:24: NOTICE:  20.273
+DO
+psql:./test.sql:24: NOTICE:  75.655
+DO
+psql:./test.sql:24: NOTICE:  45.825
+DO
+psql:./test.sql:24: NOTICE:  49.794
+DO
+psql:./test.sql:24: NOTICE:  169.62
+DO
+psql:./test.sql:24: NOTICE:  193.476
+DO
+psql:./test.sql:24: NOTICE:  123.923
+DO
+psql:./test.sql:24: NOTICE:  34.085
+DO
+psql:./test.sql:24: NOTICE:  635.231
+DO
+psql:./test.sql:24: NOTICE:  23.843
+DO
+psql:./test.sql:24: NOTICE:  615.319
+DO
+psql:./test.sql:24: NOTICE:  26.716
+DO
+psql:./test.sql:24: NOTICE:  26.681
+DO
+psql:./test.sql:24: NOTICE:  35.473
+DO
+psql:./test.sql:24: NOTICE:  105.427
+DO
+psql:./test.sql:24: NOTICE:  29.62
+DO
+psql:./test.sql:24: NOTICE:  49.489
+DO
+psql:./test.sql:24: NOTICE:  21.237
+DO
+psql:./test.sql:24: NOTICE:  29.652
+DO
+psql:./test.sql:24: NOTICE:  40.832
+DO
+psql:./test.sql:24: NOTICE:  19.353
+DO
+psql:./test.sql:24: NOTICE:  157.022
+DO
+psql:./test.sql:24: NOTICE:  90.492
+DO
+psql:./test.sql:24: NOTICE:  653.241
+DO
+psql:./test.sql:24: NOTICE:  33.436
+DO
+psql:./test.sql:24: NOTICE:  80.156
+DO
+psql:./test.sql:24: NOTICE:  206.848
+DO
+psql:./test.sql:24: NOTICE:  521.399
+DO
+psql:./test.sql:24: NOTICE:  28.357
+DO
+psql:./test.sql:24: NOTICE:  29.376
+DO
+psql:./test.sql:24: NOTICE:  79.259
+DO
+psql:./test.sql:24: NOTICE:  45.734
+DO
+psql:./test.sql:24: NOTICE:  441.858
+DO
+psql:./test.sql:24: NOTICE:  715.819
+DO
+psql:./test.sql:24: NOTICE:  41.07
+DO
+psql:./test.sql:24: NOTICE:  208.001
+DO
+psql:./test.sql:24: NOTICE:  645.199
+DO
+psql:./test.sql:24: NOTICE:  32.913
+DO
+psql:./test.sql:24: NOTICE:  71.355
+DO
+psql:./test.sql:24: NOTICE:  381.443
+DO
+psql:./test.sql:24: NOTICE:  24.139
+DO
+psql:./test.sql:24: NOTICE:  105.049
+DO
+psql:./test.sql:24: NOTICE:  76.713
+DO
+psql:./test.sql:24: NOTICE:  20.153
+DO
+psql:./test.sql:24: NOTICE:  45.258
+DO
+psql:./test.sql:24: NOTICE:  29.612
+DO
+psql:./test.sql:24: NOTICE:  46.43
+DO
+psql:./test.sql:24: NOTICE:  25.553
+DO
+psql:./test.sql:24: NOTICE:  75.578
+DO
+psql:./test.sql:24: NOTICE:  52.367
+DO
+psql:./test.sql:24: NOTICE:  181.061
+DO
+psql:./test.sql:24: NOTICE:  16.105
+DO
+psql:./test.sql:24: NOTICE:  179.568
+DO
+psql:./test.sql:24: NOTICE:  69.075
+DO
+psql:./test.sql:24: NOTICE:  17.196
+DO
+psql:./test.sql:24: NOTICE:  34.161
+DO
+psql:./test.sql:24: NOTICE:  247.062
+DO
+psql:./test.sql:24: NOTICE:  19.814
+DO
+psql:./test.sql:24: NOTICE:  27.964
+DO
+psql:./test.sql:24: NOTICE:  122.753
+DO
+psql:./test.sql:24: NOTICE:  26.572
+DO
+psql:./test.sql:24: NOTICE:  43.105
+DO
+psql:./test.sql:24: NOTICE:  195.383
+DO
+psql:./test.sql:24: NOTICE:  20.365
+DO
+psql:./test.sql:24: NOTICE:  25.429
+DO
+psql:./test.sql:24: NOTICE:  118.951
+DO
+psql:./test.sql:24: NOTICE:  49.599
+DO
+psql:./test.sql:24: NOTICE:  78.168
+DO
+psql:./test.sql:24: NOTICE:  191.864
+DO
+psql:./test.sql:24: NOTICE:  62.104
+DO
+psql:./test.sql:24: NOTICE:  59.82
+DO
+psql:./test.sql:24: NOTICE:  25.181
+DO
+psql:./test.sql:24: NOTICE:  107.821
+DO
+psql:./test.sql:24: NOTICE:  465.881
+DO
+psql:./test.sql:24: NOTICE:  54.263
+DO
+psql:./test.sql:24: NOTICE:  52.755
+DO
+psql:./test.sql:24: NOTICE:  112.95
+DO
+psql:./test.sql:24: NOTICE:  56.276
+DO
+psql:./test.sql:24: NOTICE:  520.336
+DO
+psql:./test.sql:24: NOTICE:  22.383
+DO
+psql:./test.sql:24: NOTICE:  24.836
+DO
+psql:./test.sql:24: NOTICE:  19.79
+DO
+psql:./test.sql:24: NOTICE:  93.473
+DO
+psql:./test.sql:24: NOTICE:  115.085
+DO
+psql:./test.sql:24: NOTICE:  330.891
+DO
+psql:./test.sql:24: NOTICE:  85.483
+DO
+psql:./test.sql:24: NOTICE:  18.342
+DO
+psql:./test.sql:24: NOTICE:  32.944
+DO
+psql:./test.sql:24: NOTICE:  25.617
+DO
+psql:./test.sql:24: NOTICE:  23.401
+DO
+psql:./test.sql:24: NOTICE:  147.172
+DO
+psql:./test.sql:24: NOTICE:  190.975
+DO
+psql:./test.sql:24: NOTICE:  18.791
+DO
+psql:./test.sql:24: NOTICE:  363.87
+DO
+psql:./test.sql:24: NOTICE:  77.197
+DO
+psql:./test.sql:24: NOTICE:  579.065
+DO
+psql:./test.sql:24: NOTICE:  65.413
+DO
+psql:./test.sql:24: NOTICE:  33.561
+DO
+psql:./test.sql:24: NOTICE:  18.187
+DO
+psql:./test.sql:24: NOTICE:  21.925
+DO
+psql:./test.sql:24: NOTICE:  17.557
+DO
+psql:./test.sql:24: NOTICE:  61.417
+DO
+psql:./test.sql:24: NOTICE:  31.029
+DO
+psql:./test.sql:24: NOTICE:  317.713
+DO
+psql:./test.sql:24: NOTICE:  374.885
+DO
+psql:./test.sql:24: NOTICE:  19.218
+DO
+psql:./test.sql:24: NOTICE:  17.85
+DO
+psql:./test.sql:24: NOTICE:  123.944
+DO
+psql:./test.sql:24: NOTICE:  100.755
+DO
+psql:./test.sql:24: NOTICE:  22.009
+DO
+psql:./test.sql:24: NOTICE:  50.743
+DO
+psql:./test.sql:24: NOTICE:  112.998
+DO
+psql:./test.sql:24: NOTICE:  632.42
+DO
+psql:./test.sql:24: NOTICE:  75.289
+DO
+psql:./test.sql:24: NOTICE:  539.139
+DO
+psql:./test.sql:24: NOTICE:  66.411
+DO
+psql:./test.sql:24: NOTICE:  91.535
+DO
+psql:./test.sql:24: NOTICE:  29.022
+DO
+psql:./test.sql:24: NOTICE:  672.812
+DO
+psql:./test.sql:24: NOTICE:  833.136
+DO
+psql:./test.sql:24: NOTICE:  26.16
+DO
+psql:./test.sql:24: NOTICE:  643.457
+DO
+psql:./test.sql:24: NOTICE:  20.997
+DO
+psql:./test.sql:24: NOTICE:  45.97
+DO
+psql:./test.sql:24: NOTICE:  606.039
+DO
+psql:./test.sql:24: NOTICE:  415.049
+DO
+psql:./test.sql:24: NOTICE:  77.622
+DO
+psql:./test.sql:24: NOTICE:  402.007
+DO
+psql:./test.sql:24: NOTICE:  72.937
+DO
+psql:./test.sql:24: NOTICE:  30.678
+DO
+psql:./test.sql:24: NOTICE:  50.898
+DO
+psql:./test.sql:24: NOTICE:  111.528
+DO
+psql:./test.sql:24: NOTICE:  1063.735
+DO
+psql:./test.sql:24: NOTICE:  155.283
+DO
+psql:./test.sql:24: NOTICE:  73.054
+DO
+psql:./test.sql:24: NOTICE:  123.537
+DO
+psql:./test.sql:24: NOTICE:  34.491
+DO
+psql:./test.sql:24: NOTICE:  755.072
+DO
+psql:./test.sql:24: NOTICE:  46.262
+DO
+psql:./test.sql:24: NOTICE:  77.703
+DO
+psql:./test.sql:24: NOTICE:  67.1
+DO
+psql:./test.sql:24: NOTICE:  40.96
+DO
+psql:./test.sql:24: NOTICE:  82.127
+DO
+psql:./test.sql:24: NOTICE:  31.876
+DO
+psql:./test.sql:24: NOTICE:  455.122
+DO
+psql:./test.sql:24: NOTICE:  19.559
+DO
+psql:./test.sql:24: NOTICE:  77.093
+DO
+psql:./test.sql:24: NOTICE:  44.533
+DO
+psql:./test.sql:24: NOTICE:  155.225
+DO
+psql:./test.sql:24: NOTICE:  28.016
+DO
+psql:./test.sql:24: NOTICE:  172.287
+DO
+psql:./test.sql:24: NOTICE:  75.689
+DO
+psql:./test.sql:24: NOTICE:  109.316
+DO
+psql:./test.sql:24: NOTICE:  173.114
+DO
+psql:./test.sql:24: NOTICE:  155.628
+DO
+psql:./test.sql:24: NOTICE:  178.323
+DO
+psql:./test.sql:24: NOTICE:  716.831
+DO
+psql:./test.sql:24: NOTICE:  99.189
+DO
+psql:./test.sql:24: NOTICE:  384.009
+DO
+psql:./test.sql:24: NOTICE:  169.244
+DO
+psql:./test.sql:24: NOTICE:  44.429
+DO
+psql:./test.sql:24: NOTICE:  95.446
+DO
+psql:./test.sql:24: NOTICE:  237.918
+DO
+psql:./test.sql:24: NOTICE:  99.396
+DO
+psql:./test.sql:24: NOTICE:  85.449
+DO
+psql:./test.sql:24: NOTICE:  255.759
+DO
+psql:./test.sql:24: NOTICE:  48.971
+DO
+psql:./test.sql:24: NOTICE:  29.053
+DO
+psql:./test.sql:24: NOTICE:  33.761
+DO
+psql:./test.sql:24: NOTICE:  1057.218
+DO
+psql:./test.sql:24: NOTICE:  355.843
+DO
+psql:./test.sql:24: NOTICE:  20.182
+DO
+psql:./test.sql:24: NOTICE:  52.113
+DO
+psql:./test.sql:24: NOTICE:  24.712
+DO
+psql:./test.sql:24: NOTICE:  895.411
+DO
+psql:./test.sql:24: NOTICE:  134.274
+DO
+psql:./test.sql:24: NOTICE:  19.142
+DO
+psql:./test.sql:24: NOTICE:  26.059
+DO
+psql:./test.sql:24: NOTICE:  238.556
+DO
+psql:./test.sql:24: NOTICE:  129.723
+DO
+psql:./test.sql:24: NOTICE:  225.746
+DO
+psql:./test.sql:24: NOTICE:  88.129
+DO
+psql:./test.sql:24: NOTICE:  50.461
+DO
+psql:./test.sql:24: NOTICE:  185.707
+DO
+psql:./test.sql:24: NOTICE:  46.706
+DO
+psql:./test.sql:24: NOTICE:  419.181
+DO
+psql:./test.sql:24: NOTICE:  25.4
+DO
+psql:./test.sql:24: NOTICE:  34.346
+DO
+psql:./test.sql:24: NOTICE:  530.574
+DO
+psql:./test.sql:24: NOTICE:  220.666
+DO
+psql:./test.sql:24: NOTICE:  18.851
+DO
+psql:./test.sql:24: NOTICE:  294.822
+DO
+psql:./test.sql:24: NOTICE:  51.97
+DO
+psql:./test.sql:24: NOTICE:  25.71
+DO
+psql:./test.sql:24: NOTICE:  81.537
+DO
+psql:./test.sql:24: NOTICE:  203.63
+DO
+psql:./test.sql:24: NOTICE:  17.342
+DO
+psql:./test.sql:24: NOTICE:  27.725
+DO
+psql:./test.sql:24: NOTICE:  42.001
+DO
+psql:./test.sql:24: NOTICE:  926.891
+DO
+psql:./test.sql:24: NOTICE:  15.423
+DO
+psql:./test.sql:24: NOTICE:  98.889
+DO
+psql:./test.sql:24: NOTICE:  33.236
+DO
+psql:./test.sql:24: NOTICE:  540.104
+DO
+psql:./test.sql:24: NOTICE:  203.256
+DO
+psql:./test.sql:24: NOTICE:  118.216
+DO
+psql:./test.sql:24: NOTICE:  107.9
+DO
+psql:./test.sql:24: NOTICE:  88.523
+DO
+psql:./test.sql:24: NOTICE:  248.837
+DO
+psql:./test.sql:24: NOTICE:  52.352
+DO
+psql:./test.sql:24: NOTICE:  402.458
+DO
+psql:./test.sql:24: NOTICE:  1672.531
+DO
+psql:./test.sql:24: NOTICE:  65.339
+DO
+psql:./test.sql:24: NOTICE:  119.682
+DO
+psql:./test.sql:24: NOTICE:  37.812
+DO
+psql:./test.sql:24: NOTICE:  28.119
+DO
+psql:./test.sql:24: NOTICE:  46.77
+DO
+psql:./test.sql:24: NOTICE:  21.87
+DO
+psql:./test.sql:24: NOTICE:  566.661
+DO
+psql:./test.sql:24: NOTICE:  53.244
+DO
+psql:./test.sql:24: NOTICE:  21.45
+DO
+psql:./test.sql:24: NOTICE:  65.166
+DO
+psql:./test.sql:24: NOTICE:  22.725
+DO
+psql:./test.sql:24: NOTICE:  73.371
+DO
+psql:./test.sql:24: NOTICE:  120.509
+DO
+psql:./test.sql:24: NOTICE:  255.283
+DO
+psql:./test.sql:24: NOTICE:  252.753
+DO
+psql:./test.sql:24: NOTICE:  30.129
+DO
+psql:./test.sql:24: NOTICE:  134.993
+DO
+psql:./test.sql:24: NOTICE:  236.623
+DO
+psql:./test.sql:24: NOTICE:  1565.967
+DO
+psql:./test.sql:24: NOTICE:  184.943
+DO
+psql:./test.sql:24: NOTICE:  228.012
+DO
+psql:./test.sql:24: NOTICE:  87.842
+DO
+psql:./test.sql:24: NOTICE:  57.839
+DO
+psql:./test.sql:24: NOTICE:  725.295
+DO
+psql:./test.sql:24: NOTICE:  18.01
+DO
+psql:./test.sql:24: NOTICE:  97.089
+DO
+psql:./test.sql:24: NOTICE:  22.85
+DO
+psql:./test.sql:24: NOTICE:  19.887
+DO
+psql:./test.sql:24: NOTICE:  43.118
+DO
+psql:./test.sql:24: NOTICE:  113.284
+DO
+psql:./test.sql:24: NOTICE:  106.55
+DO
+psql:./test.sql:24: NOTICE:  473.618
+DO
+psql:./test.sql:24: NOTICE:  215.879
+DO
+psql:./test.sql:24: NOTICE:  1093.61
+DO
+psql:./test.sql:24: NOTICE:  982.906
+DO
+psql:./test.sql:24: NOTICE:  16.784
+DO
+psql:./test.sql:24: NOTICE:  144.015
+DO
+psql:./test.sql:24: NOTICE:  31.125
+DO
+psql:./test.sql:24: NOTICE:  29.354
+DO
+psql:./test.sql:24: NOTICE:  170.419
+DO
+psql:./test.sql:24: NOTICE:  92.189
+DO
+psql:./test.sql:24: NOTICE:  70.841
+DO
+psql:./test.sql:24: NOTICE:  376.837
+DO
+psql:./test.sql:24: NOTICE:  70.939
+DO
+psql:./test.sql:24: NOTICE:  1067.955
+DO
+psql:./test.sql:24: NOTICE:  159.285
+DO
+psql:./test.sql:24: NOTICE:  33.597
+DO
+psql:./test.sql:24: NOTICE:  43.967
+DO
+psql:./test.sql:24: NOTICE:  52.686
+DO
+psql:./test.sql:24: NOTICE:  32.132
+DO
+psql:./test.sql:24: NOTICE:  45.862
+DO
+psql:./test.sql:24: NOTICE:  366.808
+DO
+psql:./test.sql:24: NOTICE:  350.726
+DO
+psql:./test.sql:24: NOTICE:  25.774
+DO
+psql:./test.sql:24: NOTICE:  75.207
+DO
+psql:./test.sql:24: NOTICE:  21.539
+DO
+psql:./test.sql:24: NOTICE:  18.762
+DO
+psql:./test.sql:24: NOTICE:  36.044
+DO
+psql:./test.sql:24: NOTICE:  64.973
+DO
+psql:./test.sql:24: NOTICE:  388.896
+DO
+psql:./test.sql:24: NOTICE:  112.193
+DO
+psql:./test.sql:24: NOTICE:  232.628
+DO
+psql:./test.sql:24: NOTICE:  103.53
+DO
+psql:./test.sql:24: NOTICE:  480.688
+DO
+psql:./test.sql:24: NOTICE:  120.204
+DO
+psql:./test.sql:24: NOTICE:  23.342
+DO
+psql:./test.sql:24: NOTICE:  51.39
+DO
+psql:./test.sql:24: NOTICE:  37.32
+DO
+psql:./test.sql:24: NOTICE:  107.739
+DO
+psql:./test.sql:24: NOTICE:  46.51
+DO
+psql:./test.sql:24: NOTICE:  21.705
+DO
+psql:./test.sql:24: NOTICE:  493.535
+DO
+psql:./test.sql:24: NOTICE:  56.269
+DO
+psql:./test.sql:24: NOTICE:  584.625
+DO
+psql:./test.sql:24: NOTICE:  261.304
+DO
+psql:./test.sql:24: NOTICE:  33.29
+DO
+psql:./test.sql:24: NOTICE:  128.16
+DO
+psql:./test.sql:24: NOTICE:  78.159
+DO
+psql:./test.sql:24: NOTICE:  16.133
+DO
+psql:./test.sql:24: NOTICE:  32.695
+DO
+psql:./test.sql:24: NOTICE:  252.763
+DO
+psql:./test.sql:24: NOTICE:  29.808
+DO
+psql:./test.sql:24: NOTICE:  131.46
+DO
+psql:./test.sql:24: NOTICE:  24.746
+DO
+psql:./test.sql:24: NOTICE:  178.67
+DO
+psql:./test.sql:24: NOTICE:  38.349
+DO
+psql:./test.sql:24: NOTICE:  16.252
+DO
+psql:./test.sql:24: NOTICE:  28.679
+DO
+psql:./test.sql:24: NOTICE:  174.696
+DO
+psql:./test.sql:24: NOTICE:  25.661
+DO
+psql:./test.sql:24: NOTICE:  72.248
+DO
+psql:./test.sql:24: NOTICE:  26.657
+DO
+psql:./test.sql:24: NOTICE:  35.47
+DO
+psql:./test.sql:24: NOTICE:  1212.496
+DO
+psql:./test.sql:24: NOTICE:  35.482
+DO
+psql:./test.sql:24: NOTICE:  116.583
+DO
+psql:./test.sql:24: NOTICE:  73.528
+DO
+psql:./test.sql:24: NOTICE:  133.452
+DO
+psql:./test.sql:24: NOTICE:  45.489
+DO
+psql:./test.sql:24: NOTICE:  17.469
+DO
+psql:./test.sql:24: NOTICE:  18.592
+DO
+psql:./test.sql:24: NOTICE:  148.107
+DO
+psql:./test.sql:24: NOTICE:  19.206
+DO
+psql:./test.sql:24: NOTICE:  170.324
+DO
+psql:./test.sql:24: NOTICE:  650.559
+DO
+psql:./test.sql:24: NOTICE:  216.098
+DO
+psql:./test.sql:24: NOTICE:  80.606
+DO
+psql:./test.sql:24: NOTICE:  34.75
+DO
+psql:./test.sql:24: NOTICE:  25.625
+DO
+psql:./test.sql:24: NOTICE:  142.34
+DO
+psql:./test.sql:24: NOTICE:  17.218
+DO
+psql:./test.sql:24: NOTICE:  186.763
+DO
+psql:./test.sql:24: NOTICE:  67.04
+DO
+psql:./test.sql:24: NOTICE:  683.949
+DO
+psql:./test.sql:24: NOTICE:  688.148
+DO
+psql:./test.sql:24: NOTICE:  19.743
+DO
+psql:./test.sql:24: NOTICE:  53.357
+DO
+psql:./test.sql:24: NOTICE:  873.58
+DO
+psql:./test.sql:24: NOTICE:  22.785
+DO
+psql:./test.sql:24: NOTICE:  442.463
+DO
+psql:./test.sql:24: NOTICE:  54.171
+DO
+psql:./test.sql:24: NOTICE:  36.618
+DO
+psql:./test.sql:24: NOTICE:  113.035
+DO
+psql:./test.sql:24: NOTICE:  272.151
+DO
+psql:./test.sql:24: NOTICE:  26.396
+DO
+psql:./test.sql:24: NOTICE:  19.997
+DO
+psql:./test.sql:24: NOTICE:  36.863
+DO
+psql:./test.sql:24: NOTICE:  20.044
+DO
+psql:./test.sql:24: NOTICE:  383.941
+DO
+psql:./test.sql:24: NOTICE:  29.334
+DO
+psql:./test.sql:24: NOTICE:  33.424
+DO
+psql:./test.sql:24: NOTICE:  33.386
+DO
+psql:./test.sql:24: NOTICE:  454.399
+DO
+psql:./test.sql:24: NOTICE:  30.174
+DO
+psql:./test.sql:24: NOTICE:  228.877
+DO
+psql:./test.sql:24: NOTICE:  90.995
+DO
+psql:./test.sql:24: NOTICE:  16.153
+DO
+psql:./test.sql:24: NOTICE:  868.313
+DO
+psql:./test.sql:24: NOTICE:  65.691
+DO
+psql:./test.sql:24: NOTICE:  51.973
+DO
+psql:./test.sql:24: NOTICE:  27.016
+DO
+psql:./test.sql:24: NOTICE:  37.727
+DO
+psql:./test.sql:24: NOTICE:  30.895
+DO
+psql:./test.sql:24: NOTICE:  151.262
+DO
+psql:./test.sql:24: NOTICE:  52.39
+DO
+psql:./test.sql:24: NOTICE:  47.545
+DO
+psql:./test.sql:24: NOTICE:  836.303
+DO
+psql:./test.sql:24: NOTICE:  56.219
+DO
+psql:./test.sql:24: NOTICE:  97.949
+DO
+psql:./test.sql:24: NOTICE:  204.231
+DO
+psql:./test.sql:24: NOTICE:  37.126
+DO
+psql:./test.sql:24: NOTICE:  53.545
+DO
+psql:./test.sql:24: NOTICE:  356.176
+DO
+psql:./test.sql:24: NOTICE:  112.876
+DO
+psql:./test.sql:24: NOTICE:  65.661
+DO
+psql:./test.sql:24: NOTICE:  218.376
+DO
+psql:./test.sql:24: NOTICE:  20.493
+DO
+psql:./test.sql:24: NOTICE:  32.633
+DO
+psql:./test.sql:24: NOTICE:  65.289
+DO
+psql:./test.sql:24: NOTICE:  207.583
+DO
+psql:./test.sql:24: NOTICE:  213.251
+DO
+psql:./test.sql:24: NOTICE:  148.611
+DO
+psql:./test.sql:24: NOTICE:  29.372
+DO
+psql:./test.sql:24: NOTICE:  36.614
+DO
+psql:./test.sql:24: NOTICE:  354.749
+DO
+psql:./test.sql:24: NOTICE:  24.201
+DO
+psql:./test.sql:24: NOTICE:  17.024
+DO
+psql:./test.sql:24: NOTICE:  35.323
+DO
+psql:./test.sql:24: NOTICE:  141.312
+DO
+psql:./test.sql:24: NOTICE:  772.79
+DO
+psql:./test.sql:24: NOTICE:  18.404
+DO
+psql:./test.sql:24: NOTICE:  109.21
+DO
+psql:./test.sql:24: NOTICE:  900.322
+DO
+psql:./test.sql:24: NOTICE:  66.063
+DO
+psql:./test.sql:24: NOTICE:  209.69
+DO
+psql:./test.sql:24: NOTICE:  45.146
+DO
+psql:./test.sql:24: NOTICE:  35.726
+DO
+psql:./test.sql:24: NOTICE:  18.315
+DO
+psql:./test.sql:24: NOTICE:  98.001
+DO
+psql:./test.sql:24: NOTICE:  22.962
+DO
+psql:./test.sql:24: NOTICE:  19.568
+DO
+psql:./test.sql:24: NOTICE:  61.451
+DO
+psql:./test.sql:24: NOTICE:  246.383
+DO
+psql:./test.sql:24: NOTICE:  1017.45
+DO
+psql:./test.sql:24: NOTICE:  20.334
+DO
+psql:./test.sql:24: NOTICE:  156.991
+DO
+psql:./test.sql:24: NOTICE:  427.471
+DO
+psql:./test.sql:24: NOTICE:  20.33
+DO
+psql:./test.sql:24: NOTICE:  254.769
+DO
+psql:./test.sql:24: NOTICE:  17.448
+DO
+psql:./test.sql:24: NOTICE:  80.577
+DO
+psql:./test.sql:24: NOTICE:  35.91
+DO
+psql:./test.sql:24: NOTICE:  48.054
+DO
+psql:./test.sql:24: NOTICE:  699.634
+DO
+psql:./test.sql:24: NOTICE:  1177.288
+DO
+psql:./test.sql:24: NOTICE:  21.415
+DO
+psql:./test.sql:24: NOTICE:  40.558
+DO
+psql:./test.sql:24: NOTICE:  25.139
+DO
+psql:./test.sql:24: NOTICE:  40.587
+DO
+psql:./test.sql:24: NOTICE:  18.724
+DO
+psql:./test.sql:24: NOTICE:  97.99
+DO
+psql:./test.sql:24: NOTICE:  49.318
+DO
+psql:./test.sql:24: NOTICE:  50.146
+DO
+psql:./test.sql:24: NOTICE:  486.644
+DO
+psql:./test.sql:24: NOTICE:  371.4
+DO
+psql:./test.sql:24: NOTICE:  46.403
+DO
+psql:./test.sql:24: NOTICE:  1147.98
+DO
+psql:./test.sql:24: NOTICE:  71.546
+DO
+psql:./test.sql:24: NOTICE:  251.341
+DO
+psql:./test.sql:24: NOTICE:  629.074
+DO
+psql:./test.sql:24: NOTICE:  161.466
+DO
+psql:./test.sql:24: NOTICE:  43.334
+DO
+psql:./test.sql:24: NOTICE:  19.335
+DO
+psql:./test.sql:24: NOTICE:  27.785
+DO
+psql:./test.sql:24: NOTICE:  27.011
+DO
+psql:./test.sql:24: NOTICE:  45.72
+DO
+psql:./test.sql:24: NOTICE:  154.56
+DO
+psql:./test.sql:24: NOTICE:  44.948
+DO
+psql:./test.sql:24: NOTICE:  57
+DO
+psql:./test.sql:24: NOTICE:  155.744
+DO
+psql:./test.sql:24: NOTICE:  38.931
+DO
+psql:./test.sql:24: NOTICE:  592.561
+DO
+psql:./test.sql:24: NOTICE:  23.111
+DO
+psql:./test.sql:24: NOTICE:  151.553
+DO
+psql:./test.sql:24: NOTICE:  973.47
+DO
+psql:./test.sql:24: NOTICE:  36.446
+DO
+psql:./test.sql:24: NOTICE:  17.404
+DO
+psql:./test.sql:24: NOTICE:  74.034
+DO
+psql:./test.sql:24: NOTICE:  77.37
+DO
+psql:./test.sql:24: NOTICE:  201.842
+DO
+psql:./test.sql:24: NOTICE:  18.956
+DO
+psql:./test.sql:24: NOTICE:  62.466
+DO
+psql:./test.sql:24: NOTICE:  28.644
+DO
+psql:./test.sql:24: NOTICE:  565.763
+DO
+psql:./test.sql:24: NOTICE:  59.009
+DO
+psql:./test.sql:24: NOTICE:  28.351
+DO
+psql:./test.sql:24: NOTICE:  47.802
+DO
+psql:./test.sql:24: NOTICE:  44.016
+DO
+psql:./test.sql:24: NOTICE:  49.753
+DO
+psql:./test.sql:24: NOTICE:  90.1
+DO
+psql:./test.sql:24: NOTICE:  18.554
+DO
+psql:./test.sql:24: NOTICE:  63.394
+DO
+psql:./test.sql:24: NOTICE:  35.055
+DO
+psql:./test.sql:24: NOTICE:  35.749
+DO
+psql:./test.sql:24: NOTICE:  221.046
+DO
+psql:./test.sql:24: NOTICE:  29.356
+DO
+psql:./test.sql:24: NOTICE:  82.435
+DO
+psql:./test.sql:24: NOTICE:  16.956
+DO
+psql:./test.sql:24: NOTICE:  47.548
+DO
+psql:./test.sql:24: NOTICE:  26.141
+DO
+psql:./test.sql:24: NOTICE:  453.146
+DO
+psql:./test.sql:24: NOTICE:  96.152
+DO
+psql:./test.sql:24: NOTICE:  613.782
+DO
+psql:./test.sql:24: NOTICE:  23.063
+DO
+psql:./test.sql:24: NOTICE:  120.38
+DO
+psql:./test.sql:24: NOTICE:  59.978
+DO
+psql:./test.sql:24: NOTICE:  18.981
+DO
+psql:./test.sql:24: NOTICE:  109.518
+DO
+psql:./test.sql:24: NOTICE:  197.179
+DO
+psql:./test.sql:24: NOTICE:  243.802
+DO
+psql:./test.sql:24: NOTICE:  22.515
+DO
+psql:./test.sql:24: NOTICE:  32.003
+DO
+psql:./test.sql:24: NOTICE:  16.246
+DO
+psql:./test.sql:24: NOTICE:  22.646
+DO
+psql:./test.sql:24: NOTICE:  49.605
+DO
+psql:./test.sql:24: NOTICE:  29.457
+DO
+psql:./test.sql:24: NOTICE:  823.545
+DO
+psql:./test.sql:24: NOTICE:  448.651
+DO
+psql:./test.sql:24: NOTICE:  79.489
+DO
+psql:./test.sql:24: NOTICE:  22.77
+DO
+psql:./test.sql:24: NOTICE:  165.908
+DO
+psql:./test.sql:24: NOTICE:  151.514
+DO
+psql:./test.sql:24: NOTICE:  137.906
+DO
+psql:./test.sql:24: NOTICE:  222.432
+DO
+psql:./test.sql:24: NOTICE:  145.135
+DO
+psql:./test.sql:24: NOTICE:  442.465
+DO
+psql:./test.sql:24: NOTICE:  239.116
+DO
+psql:./test.sql:24: NOTICE:  51.721
+DO
+psql:./test.sql:24: NOTICE:  26.151
+DO
+psql:./test.sql:24: NOTICE:  133.471
+DO
+psql:./test.sql:24: NOTICE:  42.719
+DO
+psql:./test.sql:24: NOTICE:  73.148
+DO
+psql:./test.sql:24: NOTICE:  64.383
+DO
+psql:./test.sql:24: NOTICE:  389.666
+DO
+psql:./test.sql:24: NOTICE:  19.044
+DO
+psql:./test.sql:24: NOTICE:  41.733
+DO
+psql:./test.sql:24: NOTICE:  767.303
+DO
+psql:./test.sql:24: NOTICE:  19.899
+DO
+psql:./test.sql:24: NOTICE:  31.24
+DO
+psql:./test.sql:24: NOTICE:  29.941
+DO
+psql:./test.sql:24: NOTICE:  727.805
+DO
+psql:./test.sql:24: NOTICE:  355.25
+DO
+psql:./test.sql:24: NOTICE:  21.806
+DO
+psql:./test.sql:24: NOTICE:  667.108
+DO
+psql:./test.sql:24: NOTICE:  148.115
+DO
+psql:./test.sql:24: NOTICE:  23.739
+DO
+psql:./test.sql:24: NOTICE:  17.306
+DO
+psql:./test.sql:24: NOTICE:  216.554
+DO
+psql:./test.sql:24: NOTICE:  44.12
+DO
+psql:./test.sql:24: NOTICE:  23.693
+DO
+psql:./test.sql:24: NOTICE:  24.006
+DO
+psql:./test.sql:24: NOTICE:  87.896
+DO
+psql:./test.sql:24: NOTICE:  92.03
+DO
+psql:./test.sql:24: NOTICE:  553.906
+DO
+psql:./test.sql:24: NOTICE:  208.597
+DO
+psql:./test.sql:24: NOTICE:  1093.017
+DO
+psql:./test.sql:24: NOTICE:  257.872
+DO
+psql:./test.sql:24: NOTICE:  19.59
+DO
+psql:./test.sql:24: NOTICE:  168.521
+DO
+psql:./test.sql:24: NOTICE:  395.121
+DO
+psql:./test.sql:24: NOTICE:  17.931
+DO
+psql:./test.sql:24: NOTICE:  75.555
+DO
+psql:./test.sql:24: NOTICE:  149.201
+DO
+psql:./test.sql:24: NOTICE:  19.041
+DO
+psql:./test.sql:24: NOTICE:  58.204
+DO
+psql:./test.sql:24: NOTICE:  218.652
+DO
+psql:./test.sql:24: NOTICE:  147.596
+DO
+psql:./test.sql:24: NOTICE:  124.957
+DO
+psql:./test.sql:24: NOTICE:  51.607
+DO
+psql:./test.sql:24: NOTICE:  26.126
+DO
+psql:./test.sql:24: NOTICE:  35.724
+DO
+psql:./test.sql:24: NOTICE:  698.696
+DO
+psql:./test.sql:24: NOTICE:  63.008
+DO
+psql:./test.sql:24: NOTICE:  88.266
+DO
+psql:./test.sql:24: NOTICE:  30.372
+DO
+psql:./test.sql:24: NOTICE:  158.891
+DO
+psql:./test.sql:24: NOTICE:  70.964
+DO
+psql:./test.sql:24: NOTICE:  52.972
+DO
+psql:./test.sql:24: NOTICE:  22.016
+DO
+psql:./test.sql:24: NOTICE:  428.05
+DO
+psql:./test.sql:24: NOTICE:  202.51
+DO
+psql:./test.sql:24: NOTICE:  54.272
+DO
+psql:./test.sql:24: NOTICE:  23.03
+DO
+psql:./test.sql:24: NOTICE:  504.091
+DO
+psql:./test.sql:24: NOTICE:  17.056
+DO
+psql:./test.sql:24: NOTICE:  342.152
+DO
+psql:./test.sql:24: NOTICE:  199.605
+DO
+psql:./test.sql:24: NOTICE:  96.88
+DO
+psql:./test.sql:24: NOTICE:  191.777
+DO
+psql:./test.sql:24: NOTICE:  48.991
+DO
+psql:./test.sql:24: NOTICE:  19.617
+DO
+psql:./test.sql:24: NOTICE:  116.236
+DO
+psql:./test.sql:24: NOTICE:  199.773
+DO
+psql:./test.sql:24: NOTICE:  360.274
+DO
+psql:./test.sql:24: NOTICE:  29.188
+DO
+psql:./test.sql:24: NOTICE:  76.423
+DO

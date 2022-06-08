@@ -1,0 +1,1 @@
+db.imagetest_normal.createIndex( { "loc" : "2d", "loc.0" : 1, "frame" : 1 } , { min : 0 , max :  640 } )
