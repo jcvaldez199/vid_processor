@@ -6,8 +6,6 @@ db.imagetest_normal.createIndex( { "loc" : "2d", "loc.0" : 1, "frame" : 1 } , { 
 5. fix crop_test collection name
 6. run crop_test
 
-
-
 POSTGIS BOX QUERIES
 ST_ContainsProperly
 ST_CoveredBy
@@ -24,3 +22,6 @@ ST_CoveredBy
 ST_Covers
 ST_DWithin
 
+PSQL:
+1. run schema
+2. add indeces
