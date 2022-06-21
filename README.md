@@ -25,3 +25,9 @@ ST_DWithin
 PSQL:
 1. run schema
 2. add indeces
+
+###############
+DONT FORGET TO CONVERT TO RADIANS
+https://www.mongodb.com/docs/manual/reference/operator/query/centerSphere/#mongodb-query-op.-centerSphere
+
+DONT FORGET ADDITIONAL GEOG CAST INDEX

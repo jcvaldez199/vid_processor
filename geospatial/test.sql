@@ -15,7 +15,7 @@ BEGIN
                                               , _end_ts   - _start_ts));
 
    _start_ts := clock_timestamp();
-PERFORM grayscale FROM picture WHERE ST_Within(coord, ST_GeomFromText('POLYGON((583 290, 583 325, 584 325, 584 290, 583 290))')) AND frame = 9;
+PERFORM grayscale FROM picture WHERE ST_DWithin(coord::geography,ST_SetSRID(ST_MakePoint(-96,-75),4326)::geography, 1365000) AND frame = 100;
    _end_ts   := clock_timestamp();
    
 -- RAISE NOTICE 'Timing overhead in ms = %', _overhead;

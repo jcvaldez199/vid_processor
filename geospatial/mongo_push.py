@@ -6,9 +6,8 @@ import json
 
 import gc
 
-if __name__ == '__main__':
+def populate():
     frame_max = 101
-    frame_max = 11
 
     myclient = pymongo.MongoClient()
     mydb = myclient["mydb"]
@@ -25,3 +24,7 @@ if __name__ == '__main__':
             print(cnt)
             del newone
             gc.collect()
+
+
+if __name__ == '__main__':
+    populate()

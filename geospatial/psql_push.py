@@ -8,7 +8,6 @@ import psycopg2
 
 if __name__ == '__main__':
     frame_max = 101
-    frame_max = 11
 
     with open("datafile.json") as f:
         data  = json.load(f)
